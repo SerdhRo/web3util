@@ -1,0 +1,24 @@
+{
+  "name": "web3utility",
+  "version": "1.0.0",
+  "description": "A simple JavaScript package for creating and managing basic blockchain functionalities.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "web3",
+    "utility"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SerdhRo/web3util.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.25.0"
+  }
+}
